@@ -1,5 +1,5 @@
 # tester![карандаш](https://user-images.githubusercontent.com/130395678/232433875-f816e1ea-e507-4cd9-af07-34dd179b81ff.png)
-[каскадная модель разработки ПО Waterfall.pdf](https://github.com/Chulpan73/tester/files/11248134/Waterfall.pdf)
+# tester![каскадная модель разработки ПО Waterfall.pdf](https://github.com/Chulpan73/tester/files/11248134/Waterfall.pdf)
 [этапы жизненного цикла тестирования.pdf](https://github.com/Chulpan73/tester/files/11248135/default.pdf)
 [виды тестирования майнд карта.pdf](https://github.com/Chulpan73/tester/files/11248136/default.pdf)
 [виды тестирования майнд карта.pdf](https://github.com/Chulpan73/tester/files/11248140/default.pdf)
